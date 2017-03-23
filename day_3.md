@@ -3,13 +3,13 @@
 **Date** March 8, 20017
 
 ## Description
-Learning journal assignments for course 201
+Learning journal assignments for course 201 day 3
 
 
 
 Day 2
 
-We learned how to if/else statements and touched on some html and css. It was mainly recap so I felt good about everything. I created the html, css, and js pages. 
+We learned how to if/else statements and touched on some html and css. It was mainly recap so I felt good about everything. I created the html, css, and js pages.
 
 Day 3
 

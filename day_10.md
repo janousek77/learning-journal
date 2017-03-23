@@ -3,7 +3,7 @@
 **Date** March 16-17, 20017
 
 ## Description
-Learning journal assignments for course 201 day
+Learning journal assignments for course 201 day 10
 
 Day 9: Today was a fairly easy day going over all of the html & CSS stuff. It wasn't as easy when it came time to start using it though. It took me way too long to get things how I wanted.
 

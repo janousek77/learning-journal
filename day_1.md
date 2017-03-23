@@ -3,7 +3,7 @@
 **Date** March 7, 20017
 
 ## Description
-Learning journal assignments for course 201
+Learning journal assignments for course 201 day 1
 
 
 
