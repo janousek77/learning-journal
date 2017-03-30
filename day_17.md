@@ -1,6 +1,6 @@
 **Author** Christopher Janousek
 
-**Date** March 258 20017
+**Date** March 28 2017
 
 ## Description
 Learning journal assignments for course 201 day 17
