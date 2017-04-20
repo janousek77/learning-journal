@@ -1,6 +1,6 @@
 **Author** Christopher Janousek
 
-**Date** April 10 2017
+**Date** April 17 2017
 
 ## Description
 Learning journal assignment for course 301 day 6
